@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.cnt;
 import javax.inject.Named;
 import org.glassfish.jersey.server.ResourceConfig;
 import org.springframework.context.annotation.Bean;

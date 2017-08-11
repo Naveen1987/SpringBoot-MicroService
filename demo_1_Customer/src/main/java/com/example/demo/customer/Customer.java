@@ -1,4 +1,5 @@
 package com.example.demo.customer;
+
 public class Customer {
 private long id;
 private String name;
